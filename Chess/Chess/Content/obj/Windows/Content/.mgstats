@@ -1,0 +1,17 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Z:/Github/Games/Chess/Chess/Content/blackbishop.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/blackbishop.xnb","TextureProcessor","Texture2DContent",9083,108325,0.5273866
+"Z:/Github/Games/Chess/Chess/Content/blackking.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/blackking.xnb","TextureProcessor","Texture2DContent",17754,110305,0.1497964
+"Z:/Github/Games/Chess/Chess/Content/blackknight.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/blackknight.xnb","TextureProcessor","Texture2DContent",11280,101209,0.1367459
+"Z:/Github/Games/Chess/Chess/Content/blackpawn.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/blackpawn.xnb","TextureProcessor","Texture2DContent",1806,17185,0.1231551
+"Z:/Github/Games/Chess/Chess/Content/blackqueen.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/blackqueen.xnb","TextureProcessor","Texture2DContent",14388,124573,0.1362797
+"Z:/Github/Games/Chess/Chess/Content/blackrook.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/blackrook.xnb","TextureProcessor","Texture2DContent",7932,79949,0.1154017
+"Z:/Github/Games/Chess/Chess/Content/Button.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/Button.xnb","TextureProcessor","Texture2DContent",181,885,0.0856507
+"Z:/Github/Games/Chess/Chess/Content/ButtonClicked.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/ButtonClicked.xnb","TextureProcessor","Texture2DContent",159,885,0.1067914
+"Z:/Github/Games/Chess/Chess/Content/File.spritefont","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/Spritefont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.3027341
+"Z:/Github/Games/Chess/Chess/Content/font2.spritefont","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/font2.xnb","FontDescriptionProcessor","SpriteFontContent",2065,37922,0.1551719
+"Z:/Github/Games/Chess/Chess/Content/whitebishop.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/whitebishop.xnb","TextureProcessor","Texture2DContent",13892,109645,0.1230678
+"Z:/Github/Games/Chess/Chess/Content/whiteking.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/whiteking.xnb","TextureProcessor","Texture2DContent",16201,109645,0.1466886
+"Z:/Github/Games/Chess/Chess/Content/whiteknight.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/whiteknight.xnb","TextureProcessor","Texture2DContent",14097,100573,0.1250381
+"Z:/Github/Games/Chess/Chess/Content/whitepawn.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/whitepawn.xnb","TextureProcessor","Texture2DContent",5760,17185,0.1159249
+"Z:/Github/Games/Chess/Chess/Content/whitequeen.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/whitequeen.xnb","TextureProcessor","Texture2DContent",18032,121661,0.1378115
+"Z:/Github/Games/Chess/Chess/Content/whiterook.png","Z:/Github/Games/Chess/Chess/Content/bin/Windows/Content/whiterook.xnb","TextureProcessor","Texture2DContent",9806,79949,0.1307788

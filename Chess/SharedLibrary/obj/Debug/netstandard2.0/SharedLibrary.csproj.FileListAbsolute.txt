@@ -1,0 +1,36 @@
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+\\GMRDC1\Folder Redirection\Nikita.Ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+Z:\nikita.ulianov\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb
+Z:\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+Z:\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+Z:\Documents\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+Z:\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+Z:\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+Z:\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+Z:\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+Z:\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+Z:\Documents\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb
+Z:\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.deps.json
+Z:\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+Z:\Github\Games\Chess\SharedLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+Z:\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+Z:\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+Z:\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+Z:\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+Z:\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.dll
+Z:\Github\Games\Chess\SharedLibrary\obj\Debug\netstandard2.0\SharedLibrary.pdb

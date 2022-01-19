@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Z:/Github/Games/Chess/Chess/Content/blackbishop.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/blackking.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/blackknight.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/blackpawn.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/blackqueen.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/blackrook.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/Button.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/ButtonClicked.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/File.spritefont</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/font2.spritefont</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/whitebishop.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/whiteking.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/whiteknight.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/whitepawn.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/whitequeen.png</File>
+    <File>Z:/Github/Games/Chess/Chess/Content/whiterook.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
